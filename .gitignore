@@ -1,0 +1,8 @@
+# CLion-specific files
+.idea/
+
+# CMake build directories
+cmake-build-debug/
+
+# macOS specific files
+.DS_Store
